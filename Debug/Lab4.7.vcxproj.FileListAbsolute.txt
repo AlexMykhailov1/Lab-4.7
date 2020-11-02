@@ -1,0 +1,2 @@
+Y:\Programming\Projects\Lab4.7\Debug\Lab4.7.exe
+Y:\Programming\Projects\Lab4.7\Debug\Lab4.7.pdb
